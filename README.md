@@ -161,7 +161,10 @@ void pushbutton()
 ```
 
 ## Output  :
- 
+ ![image](https://github.com/Aishwarya-sankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121418444/4deca8c1-ca07-4df9-8e0c-7d81bcc93cd4)
+ ![image](https://github.com/Aishwarya-sankar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/121418444/3a3526f8-3dbd-437f-8c64-f21701d5e173)
+
+
  
  
  
